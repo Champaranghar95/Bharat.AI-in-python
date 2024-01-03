@@ -7,13 +7,13 @@ Development is ongoing, with potential for further advancements in AI-powered as
 
  # What would you like to know next about Bharat AI? I can tell you more about:
 
-   *  Specific features and functionalities of different Jarvis AI tools.
-   *  Comparisons between different Bharat AI systems.
-   *  The future of Bharat AI and its potential impact on our lives.
-   *  Other AI assistants similar to Bharat AI.
+     Specific features and functionalities of different Jarvis AI tools.
+     Comparisons between different Bharat AI systems.
+     The future of Bharat AI and its potential impact on our lives.
+     Other AI assistants similar to Bharat AI.
 
 
-    * I understand you'd like more information about Bharat AI. To give you the most relevant details, could you tell me what specifically interests you? Are you curious about:
+     I understand you'd like more information about Bharat AI. To give you the most relevant details, could you tell me what specifically interests you? Are you curious about:
 
 # A specific Jarvis AI tool, like Jasper or the Chrome extension? 
      Knowing which one you're interested in will help me tailor my response to its unique features and benefits.
