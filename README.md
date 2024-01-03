@@ -44,5 +44,5 @@ pip install requests
 pip install gtts
 pip install selenium
 pip install os
-*pip install getpass
+* pip install getpass
  
