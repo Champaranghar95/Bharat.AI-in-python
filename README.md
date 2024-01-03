@@ -24,3 +24,25 @@ Development is ongoing, with potential for further advancements in AI-powered as
 # Similar AI assistants? 
 If Bharat AI has piqued your interest, I can introduce you to other AI systems with similar capabilities.
 The more you tell me about what you're looking for, the better I can guide you through the exciting world of Bharat AI and its related technologies!
+
+
+
+
+# Steps to setup
+ pip install pyttsx3
+ pip install speechRecognition
+ pip install datetime
+ pip install wikipedia
+ pip install  webbrowser
+
+pip install  smtplib
+pip install pyjokes
+pip install pyautogui
+pip install plyer
+pip install bs4
+pip install requests
+pip install gtts
+pip install selenium
+pip install os
+*pip install getpass
+ 
